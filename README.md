@@ -4,7 +4,7 @@ Eternal973的GitHub主页，并没有什么特别之处。</br>
 累了，但是总想拼一把做出点什么东西，屡屡碰壁，基本躺平了。</br>
 
 爆爆爆爆爆！</br>
-目前动态：忙点好啊，瞎忙，以后可能[OpenProjReiuji](https://github.com/Eternal973/OpenProjReiuji)会有新东西，主要还是街机音游相关，目前在做吴梦手台，以及部分S**A系街机的硬件复刻，我不喜欢用GitHub。</br>
+目前动态：火窝的全栈机修，也做点小项目。忙点好啊，瞎忙，以后可能[OpenProjReiuji](https://github.com/Eternal973/OpenProjReiuji)会有新东西，主要还是街机音游相关，目前在做吴梦手台，以及部分S**A系街机的硬件复刻，我不喜欢用GitHub。</br>
 Reigeki相关请前往[闲鱼商品发布页](https://h5.m.goofish.com/item?id=732352625237 "闲鱼上的Reigeki")点击“我想要”咨询。</br>
 实际上除了ongeki，sdvx/iidx/popn/museca/taiko/jubeat/chuni/maimai/wacca的控制器我也有涉猎，都可以提供硬件上的一些帮助，我也依赖这个过程学习，希望能帮到你。</br>
 ![](https://github-readme-stats.vercel.app/api?username=Eternal973&show_icons=true&icon_color=b37d67&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)</br>
