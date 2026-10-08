@@ -4,7 +4,7 @@ Eternal973的GitHub主页，并没有什么特别之处。</br>
 累了，但是总想拼一把做出点什么东西，屡屡碰壁，基本躺平了。</br>
 
 爆爆爆爆爆！</br>
-目前动态：GuNe火窝的全栈机修，除了机器维护外，也做点小项目，同时有接单maimai旧框改DX。忙点好啊，瞎忙，以后可能[OpenProjReiuji](https://github.com/Eternal973/OpenProjReiuji)会有新东西，主要还是街机音游相关，目前在做MAIMAI旧框与DX之间的兼容比如[mai22maitouch](https://github.com/Eternal973/mai22maitouch)，以及部分S**A系街机的硬件复刻，我不喜欢用GitHub。</br>
+目前动态：汕头泠窝的全栈机修，除了机器维护外，也做点小项目，同时有接单maimai旧框改DX。忙点好啊，瞎忙，以后可能[OpenProjReiuji](https://github.com/Eternal973/OpenProjReiuji)会有新东西，主要还是街机音游相关，目前在做MAIMAI旧框与DX之间的兼容比如[mai22maitouch](https://github.com/Eternal973/mai22maitouch)和[mai22maitouch_sync](https://github.com/Eternal973/mai22maitouch_sync)，以及部分S**A系街机的硬件复刻，我不喜欢用GitHub。</br>
 Reigeki相关请前往[闲鱼商品发布页](https://h5.m.goofish.com/item?id=732352625237 "闲鱼上的Reigeki")点击“我想要”咨询。</br>
 实际上除了ongeki，sdvx/iidx/popn/museca/taiko/jubeat/chuni/maimai/wacca的控制器我也有涉猎，都可以提供硬件上的一些帮助，我也依赖这个过程学习，希望能帮到你。</br>
 目前手头也有maimai/maimaidx/wacca/chunithm/jubeat/groovecoaster的官方街机，如果你感兴趣，我也可以提供相关资料。</br>
@@ -13,5 +13,5 @@ Reigeki相关请前往[闲鱼商品发布页](https://h5.m.goofish.com/item?id=7
 
 然后用抄来的api砌一个城墙，注意，不是我“掌握的技能”，只能算是“接触过的东西”。</br>
 为什么没有Copilot呢？明明是最常用的……</br>
-现在更喜欢DeepSeek了，看起来ds的Python和C#还挺熟练。</br>
+现在更喜欢DeepSeek了，看起来AI还是擅长Python和C#。</br>
 [![My Skills](https://skillicons.dev/icons?perline=9&i=py,dotnet,html,css,ts,js,powershell,arduino,vscode,matlab,unity,windows,ubuntu,linux,nodejs,sqlite,github,git,md,discord,twitter,wordpress,notion,ae,pr,au,ps&theme=light)](https://skillicons.dev)
