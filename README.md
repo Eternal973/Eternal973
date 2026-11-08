@@ -11,7 +11,4 @@ Reigeki相关请前往[闲鱼商品发布页](https://h5.m.goofish.com/item?id=7
 ![](https://github-readme-stats.vercel.app/api?username=Eternal973&show_icons=true&icon_color=b37d67&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)</br>
 ……システム、スリープモードに入ります。
 
-然后用抄来的api砌一个城墙，注意，不是我“掌握的技能”，只能算是“接触过的东西”。</br>
-为什么没有Copilot呢？明明是最常用的……</br>
-现在更喜欢DeepSeek了，看起来AI还是擅长Python和C#。</br>
-[![My Skills](https://skillicons.dev/icons?perline=9&i=py,dotnet,html,css,ts,js,powershell,arduino,vscode,matlab,unity,windows,ubuntu,linux,nodejs,sqlite,github,git,md,discord,twitter,wordpress,notion,ae,pr,au,ps&theme=light)](https://skillicons.dev)
+目前是DeepSeek Harness享受者。
